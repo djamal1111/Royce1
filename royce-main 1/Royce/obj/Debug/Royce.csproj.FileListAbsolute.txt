@@ -1,0 +1,48 @@
+C:\Users\мвидео\source\repos\Royce\Royce\bin\Debug\Royce.exe.config
+C:\Users\мвидео\source\repos\Royce\Royce\bin\Debug\Royce.exe
+C:\Users\мвидео\source\repos\Royce\Royce\bin\Debug\Royce.pdb
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.csproj.AssemblyReference.cache
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.Form1.resources
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.Properties.Resources.resources
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.csproj.GenerateResource.cache
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.csproj.CoreCompileInputs.cache
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.exe
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.pdb
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.Бронирование.resources
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.МОИ_НОМЕРА.resources
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.onas.resources
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.описание.resources
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.ГАЛЕРЕЯ.resources
+C:\Users\мвидео\source\repos\Royce\Royce\obj\Debug\Royce.ИЗВЕСТНЫЕ_ГОСТИ.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\bin\Debug\Royce.exe.config
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\bin\Debug\Royce.exe
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\bin\Debug\Royce.pdb
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.csproj.AssemblyReference.cache
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.Form1.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.Properties.Resources.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.Бронирование.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.ГАЛЕРЕЯ.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.ИЗВЕСТНЫЕ_ГОСТИ.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.МОИ_НОМЕРА.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.onas.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.описание.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.csproj.GenerateResource.cache
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.csproj.CoreCompileInputs.cache
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.exe
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main\Royce\obj\Debug\Royce.pdb
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.csproj.AssemblyReference.cache
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.Form1.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.Properties.Resources.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.Бронирование.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.ГАЛЕРЕЯ.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.ИЗВЕСТНЫЕ_ГОСТИ.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.МОИ_НОМЕРА.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.onas.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.описание.resources
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.csproj.GenerateResource.cache
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.csproj.CoreCompileInputs.cache
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.exe
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\obj\Debug\Royce.pdb
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\bin\Debug\Royce.exe.config
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\bin\Debug\Royce.exe
+C:\Users\Джамал\Documents\КУРСОВАЯ\royce-main 1\Royce\bin\Debug\Royce.pdb
